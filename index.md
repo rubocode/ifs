@@ -6,4 +6,5 @@
 ## The IFS Legacy 
 
 * [Introduction](introduction)
+* [People](people)
 
