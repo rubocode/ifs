@@ -1,6 +1,6 @@
 ![banner](/ifs/photos/banner.png)
 
-## Institute of Fundamental Studies
+## The IFS Legacy 
 
 * [Introduction](introduction)
 
