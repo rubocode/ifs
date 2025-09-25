@@ -2,4 +2,4 @@
 
 ![banner](/ifs/photos/banner.png)
 
-## Administration
+## Administrative
