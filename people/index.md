@@ -5,6 +5,6 @@
 ## People
 
 * [Senior Scientists](senior)
-* [Junior Scientists]((junior)
+* [Junior Scientists](junior)
 * [Administration](admin)
 * [Pre-University](pre)
