@@ -6,5 +6,5 @@
 
 * [Senior Scientists](senior)
 * [Junior Scientists](junior)
-* [Administration](admin)
+* [Administrative](admin)
 * [Pre-University](pre)
