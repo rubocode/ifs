@@ -2,5 +2,5 @@
 
 ![banner](/ifs/photos/banner.png)
 
-## Professor Cyril Ponnamperuma
+## Cyril Ponnamperuma
 
