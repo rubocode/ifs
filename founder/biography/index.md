@@ -23,8 +23,9 @@ the direction of the Nobel Laureate Melvin Calvin.
 In 1962, he was honoured with a National Academy of Sciences Resident Associateship
 with NASA at the Ames Research Center.
 In 1963 he joined NASA's Exobiology Division and took over the helm of
-the Chemical Evolution Division.  He was selected as the principal investigator
-for analysis of lunar soil brought to Earth by Project Apollo.
+the Chemical Evolution Division.
+He was selected as the principal investigator for analysis of lunar soil
+brought to Earth by Project Apollo.
 
 Thereafter, he was closely involved with NASA in the Viking and Voyager programmes
 and was offered membership in both the Space Science Advisory Council and
