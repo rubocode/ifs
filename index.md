@@ -7,6 +7,7 @@
 
 * [Introduction](introduction)
 * [Founder](founder)
+* [Events](events)
 * [Sections](sections)
 * [People](people)
 
