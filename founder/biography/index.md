@@ -29,9 +29,8 @@ for analysis of lunar soil brought to Earth by Project Apollo.
 Thereafter, he was closely involved with NASA in the Viking and Voyager programmes
 and was offered membership in both the Space Science Advisory Council and
 Life Sciences Advisory Council of NASA.
-
-According to Arthur C. Clarke, "No other scientist of Sri Lankan origin
-was internationally known and respected as he was."
+Dr. Arthur C. Clarke once said that no other scientist of Sri Lankan origin
+was internationally known and respected as he was.
 He produced over 400 scientific publications and held a number of prestigious
 academic posts over his brillaint career.
 
@@ -39,7 +38,6 @@ His studies focused mainly towards the origin of life.
 He was selected for the analysis of the Moon dust in the Apollo Programme and that
 lead to his name and photo appearing on the cover-pages of world class newspapers
 and magazines such as Time and Newsweek.
-
 The Third World Academy of Sciences (TWAS) based in Trieste, Italy, elected him
 as its Vice President in 1989 and appointed him Chairman of the International Network
 of Science Centres in selected developing Countries.
@@ -86,8 +84,8 @@ His organizational abilities and communication skills have been widely acknowled
 
 His valuable life ended soon after suffering a heart attack at the
 Laboratory of Chemical Evolution, University of Maryland USA.
-
 The remains of Professor Cyril Ponnamperuma were flown to Colombo on 9 January 1995
-and a private funeral service bid farewell to this wonderful Sri Lankan.
+and a private funeral service bid farewell to this wonderful and distinguished
+Sri Lankan.
 
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Cyril_Ponnamperuma)
