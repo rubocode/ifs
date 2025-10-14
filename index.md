@@ -7,5 +7,6 @@
 
 * [Introduction](introduction)
 * [Founder](founder)
+* [Sections](sections)
 * [People](people)
 
