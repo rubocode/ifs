@@ -30,7 +30,7 @@ brought to Earth by Project Apollo.
 Thereafter, he was closely involved with NASA in the Viking and Voyager programmes
 and was offered membership in both the Space Science Advisory Council and
 Life Sciences Advisory Council of NASA.
-Dr. Arthur C. Clarke once said that no other scientist of Sri Lankan origin
+Dr. Arthur C. Clarke once stated that no other scientist of Sri Lankan origin
 was internationally known and respected as he was.
 He produced over 400 scientific publications and held a number of prestigious
 academic posts over his brillaint career.
