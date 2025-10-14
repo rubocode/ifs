@@ -2,7 +2,7 @@
 
 ![photo](photos/cyril-desk.png)
 
-## Cyril Ponnamperuma
+## Cyril Andrew Ponnamperuma
 
 * [Biography](biography)
 * [Vision](vision)
