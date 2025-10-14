@@ -4,3 +4,7 @@
 
 ## Cyril Ponnamperuma
 
+* [Biography](biography)
+* [Vision](vision)
+* [projects](projects)
+* [Legacy](legacy)
