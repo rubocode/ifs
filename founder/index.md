@@ -6,5 +6,5 @@
 
 * [Biography](biography)
 * [Vision](vision)
-* [projects](projects)
+* [Projects](projects)
 * [Legacy](legacy)
