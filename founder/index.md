@@ -1,8 +1,8 @@
 > [home](../)
 
-![banner](/ifs/photos/banner.png)
+![photo](photos/cyril-desk.png)
 
-## Cyril Ponnamperuma
+## Professor Cyril Ponnamperuma
 
 * [Biography](biography)
 * [Vision](vision)
