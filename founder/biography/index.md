@@ -68,7 +68,7 @@ Among the many awards that Professor Ponnamperuma
 received are the Alexander Oparin Gold Medal for the Best Sustained Programme
 on the Origin of Life awarded by the International Society for
 the Study of the Origin of Life in 1980.
-In recognition of his service to Sri Lanka, he was conferred, The Honour of Vidya Jyothy
+In recognition of his service to Sri Lanka, he was conferred the Honour of Vidya Jyothy
 at the 1990 National Day investiture ceremony by President Ranasinghe Premadasa.
 
 He was nominated to the prestigious Pontical Academy of Sciences,
