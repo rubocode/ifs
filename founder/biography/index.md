@@ -44,7 +44,7 @@ as its Vice President in 1989 and appointed him Chairman of the International Ne
 of Science Centres in selected developing Countries.
 He contributed immensely to the Third World Foundation of North America as its Chairman.
 
-He was the first director of the _Arthur C. Clarke Centre for Modern Technologies_
+He was the first director of the Arthur C. Clarke Centre for Modern Technologies
 in Sri Lanka.
 In 1984, he was appointed Science Advisor to the President of Sri Lanka by
 the late President J. R. Jayewardene.
