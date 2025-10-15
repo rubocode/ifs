@@ -33,7 +33,7 @@ Life Sciences Advisory Council of NASA.
 Dr. Arthur C. Clarke once stated that no other scientist of Sri Lankan origin
 was internationally known and respected as he was.
 He produced over 400 scientific publications and held a number of prestigious
-academic posts over his brillaint career.
+academic posts over his brilliant career.
 
 His studies focused mainly towards the origin of life.
 He was selected for the analysis of the Moon dust in the Apollo Programme and that
