@@ -89,4 +89,4 @@ The remains of Professor Cyril Ponnamperuma were flown to Colombo on 9 January 1
 and a private funeral service bid farewell to this wonderful and distinguished
 Sri Lankan.
 
-> Source: [Wikipedia](https://en.wikipedia.org/wiki/Cyril_Ponnamperuma)
+> Reference: [Wikipedia](https://en.wikipedia.org/wiki/Cyril_Ponnamperuma)
