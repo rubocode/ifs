@@ -1,4 +1,4 @@
-> [events](../)
+> [memories](../)
 
 ![photo](zen.png)
 

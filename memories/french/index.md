@@ -1,4 +1,4 @@
-> [events](../)
+> [memories](../)
 
 ![photo](french-89.png)
 

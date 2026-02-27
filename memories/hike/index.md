@@ -1,4 +1,4 @@
-> [events](../)
+> [memories](../)
 
 ![photo](mountain.png)
 
