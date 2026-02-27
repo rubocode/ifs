@@ -6,4 +6,4 @@
 > Sirima Bandaranayake, Ruchira Bomiriya and President J.R. Jayewaredene on the right.  
 > Anura Bandaranayake and Professor Ralph Buultjens in the bacground.
 
-## Bicentennial of the French Revolution (1789&nbsp;&emdash;&nbsp;1989)
+## Bicentennial of the French Revolution (1789&nbsp;-&nbsp;1989)
