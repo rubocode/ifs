@@ -2,7 +2,7 @@
 
 ![banner](/ifs/photos/banner.png)
 
-## Events
+## Memories 
 
 * [Bicentennial of the French Revolution (1989)](french)
 * [MV-7800 Mini Computer (1989)](mv-7800)
