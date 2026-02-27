@@ -1,6 +1,6 @@
 > [events](../)
 
-![photo](photos/zen.png)
+![photo](zen.png)
 
 > PRAs of 1988 gathered in the Zen Garden.
 

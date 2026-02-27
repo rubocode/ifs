@@ -1,6 +1,6 @@
 > [events](../)
 
-![photo](photos/mountain.png)
+![photo](mountain.png)
 
 > Mix of PRAs and JRAs on a Hike.
 

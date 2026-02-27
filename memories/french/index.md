@@ -1,6 +1,6 @@
 > [events](../)
 
-![photo](photos/french-89.png)
+![photo](french-89.png)
 
 > Professor Cyril Ponnamperuma and Professor Kapila Dahanayake of the IFS on the left.  
 > Sirima Bandaranayake, Ruchira Bomiriya and President J.R. Jayewaredene on the right.  
