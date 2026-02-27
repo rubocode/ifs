@@ -5,7 +5,8 @@
 ## Events
 
 * [Bicentennial of the French Revolution (1989)](french)
+* [Zen Garden (1989)](zen)
 * [Gam Udawa, Pallekele (1990)](gamudawa)
 * [Popham Arboretum (1990)](popham)
 * [Hike (1990)](hike)
-* [Zen Garden (1989)](zen)
+
