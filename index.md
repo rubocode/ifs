@@ -8,6 +8,5 @@
 * [Introduction](introduction)
 * [Founder](founder)
 * [Memories](memories)
-* [Sections](sections)
 * [People](people)
 
