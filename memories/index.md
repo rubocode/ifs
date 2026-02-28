@@ -11,6 +11,6 @@
 * [Arthur C. Clarke Visit (1990)](clarke)
 * [Gam Udawa, Pallekele (1990)](gamudawa)
 * [Popham Arboretum (1990)](popham)
-* [X-Ray Difractometer (1990)](xrd)
+* [X-Ray Diffractometer (1990)](xrd)
 * [Hike (1990)](hike)
 
