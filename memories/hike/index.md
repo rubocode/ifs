@@ -2,7 +2,8 @@
 
 ![photo](mountain.png)
 
-> Mix of PRAs and JRAs on a hike.
+> Nirmala Keerthiratne, Lalith Perera, Abhayagiri Liyanaarachchi, Upali Weragama,
+> Deepal Subasinghe, Ruchira Bomiriya, Shiran Wijeratne, Samantha De Silva
 
 ## Hike (1990)
 
