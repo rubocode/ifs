@@ -2,6 +2,6 @@
 
 ![photo](xrd.png)
 
-> The XRD was another donation from Japan.
+> The X-Ray Diffractometer was another donation from Japan.
 
-## X-Ray Diffractometer (XRD)
+## XRD (1990)
