@@ -7,5 +7,5 @@
 > He is accompanied by Ruchira Bomiriya (PRA) and Rohan Gunaratna
 > (Communication Officer).
 
-## Gam Udawa, Pallekele 1990
+## Gam Udawa, Pallekele (1990)
 
